@@ -174,7 +174,6 @@ You can also:
 - delete [\_layouts/archive-category.liquid](_layouts/archive-category.liquid)
 - delete [\_layouts/archive-tag.liquid](_layouts/archive-tag.liquid)
 - delete [\_layouts/archive-year.liquid](_layouts/archive-year.liquid)
-- delete [\_plugins/external-posts.rb](_plugins/external-posts.rb)
 - remove the `jekyll-archives` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
 - remove the `classifier-reborn` gem from the [Gemfile](Gemfile)
 
