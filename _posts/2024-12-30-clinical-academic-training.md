@@ -42,7 +42,7 @@ For me, it reinforces the distinction between *job* and *career*. Yes, the day-t
 
 ## Disadvantages
 
-"Sounds amazing, I'm sold - but isn't this too good to be true?" Another excellent point. There are certainly challenges associated with this. The main one, and if you don't acknowledge your awareness of this in your white space questions or interviews (see [Applying For Clinical Academic Training](_posts/2025-01-10-applying-clinical-academic-training)), you're not going to convince anyone you're prepared, is the impact it has on your clinical training.
+"Sounds amazing, I'm sold - but isn't this too good to be true?" Another excellent point. There are certainly challenges associated with this. The main one, and if you don't acknowledge your awareness of this in your white space questions or interviews (see [Applying For Clinical Academic Training](2025-01-10-applying-clinical-academic-training)), you're not going to convince anyone you're prepared, is the impact it has on your clinical training.
 
 Any clinical training has certain outcomes you need to meet. In FY1 and FY2 these are broad and generalisable - assessing sick patients, starting management, communicating well. I'm in O+G training now, and this year I need to demonstrate ability to take a cervical smear, and by the end of training I'll be expected to be able to do more advanced things like complicated C sections. The requirements get gradually more demanding. Someone like me who is given 75% clinical and 25% academic time is still working full time (48h/week for doctors).
 
