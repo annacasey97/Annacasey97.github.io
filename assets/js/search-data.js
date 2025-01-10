@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-clinical-academic-training",
+        },{id: "post-applying-for-academic-clinical-training",
+      
+        title: "applying for academic clinical training",
+      
+      description: "where do I even start?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/applying-clinical-academic-training/";
+        
+      },
+    },{id: "post-clinical-academic-training",
       
         title: "clinical academic training",
       
