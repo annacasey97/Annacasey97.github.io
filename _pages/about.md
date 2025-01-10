@@ -8,7 +8,7 @@ subtitle: Academic Clinical Fellow in Obstetrics and Gynaecology @ <a href='http
 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
