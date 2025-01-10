@@ -50,12 +50,6 @@ This means my training will still take the same amount of time as my 100% clinic
 
 In contrast to someone working less than full time (LTFT) at 75% pro-rata, who will have their training extended to compensate for the additional time away from their clinical work. Yes, we'll both have the same amount of clinical time, but they will have longer to meet the requirements than me.
 
-That's the main disadvantage, and there are others. Because you're not working the same amount of time clinically, some old-fashioned miserable people will dislike you and think you don't take the job seriously. LTFT trainees get the same. Not all departments are like this - my current teams are all lovely - but in previous rotations and speaking to other doctors, it's definitely not an uncommon attitude in some places. Ask at your interview, or talk to existing trainees.
+That's the main disadvantage, and there are others. Because you're not working the same amount of time clinically, some old-fashioned miserable people will dislike you and think you don't take the job seriously. LTFT trainees get the same. Not all departments are like this - my current teams are all lovely - but in previous rotations and speaking to other doctors, it's definitely not an uncommon attitude in some places. Ask at your interview, or talk to existing trainees to gauge the vibe.
 
-# Applying
-
-So now we get to the application.
-
-# More information
-
-Please do also feel free to message me via any of the contact details on this website and I'll do my best to answer your questions!
+# For application advice, see my next post!
