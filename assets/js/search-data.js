@@ -51,28 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-draft-clinical-academic-training",
+        },{id: "post-draft-clinical-academic-training",
       
         title: "DRAFT clinical academic training",
       
