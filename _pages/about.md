@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Academic Clinical Fellow in Obstetrics and Gynaecology at [UHL](https://www.leicestershospitals.nhs.uk/aboutus/departments-services/gynaecology) and [University of Leicester]()
+subtitle: Academic Clinical Fellow in Obstetrics and Gynaecology @ <a href='https://www.leicestershospitals.nhs.uk/aboutus/departments-services/gynaecology'>UHL</a> and <a href='https://le.ac.uk/'>University of Leicester</a>
+
+
+
 
 profile:
   align: right
