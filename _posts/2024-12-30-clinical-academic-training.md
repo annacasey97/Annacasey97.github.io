@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  DRAFT clinical academic training
+title:  clinical academic training
 date:   2024-12-30 16:40:16
 description: what is it? and what's the point?
 tags: clinical-academia, career
@@ -52,4 +52,8 @@ In contrast to someone working less than full time (LTFT) at 75% pro-rata, who w
 
 That's the main disadvantage, and there are others. Because you're not working the same amount of time clinically, some old-fashioned miserable people will dislike you and think you don't take the job seriously. LTFT trainees get the same. Not all departments are like this - my current teams are all lovely - but in previous rotations and speaking to other doctors, it's definitely not an uncommon attitude in some places. Ask at your interview, or talk to existing trainees to gauge the vibe.
 
-# For application advice, see my next post!
+# Summary
+
+1. Academic clinical training is a different training pathway which sits alongside the traditional FP and specialty training routes.
+2. Information for these can be found online - the UKFPO website for FP, and the NIHR website beyond that
+3. There are advantages and disadvantages, and only you can decide if it fits within your career goals to pursue
