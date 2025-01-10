@@ -79,9 +79,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-clinical-academic-training",
+            },{id: "post-draft-clinical-academic-training",
       
-        title: "clinical academic training",
+        title: "DRAFT clinical academic training",
       
       description: "what is it? and what&#39;s the point?",
       section: "Posts",
