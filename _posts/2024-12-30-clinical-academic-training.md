@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  clinical academic training
+title:  DRAFT clinical academic training
 date:   2024-12-30 16:40:16
 description: what is it? and what's the point?
 tags: clinical-academia, career
@@ -26,8 +26,35 @@ The SFP follows the same pattern as any other FP: 6 rotations over 2 years lasti
 After the SFP, you'll apply for specialty training. At this stage, you'll also be able to apply for an [Academic Clinical Fellowship](https://www.nihr.ac.uk/career-development/research-career-funding-programmes/predoctoral/academic-clinical-fellowship), funded by the NIHR (National Institute for Health and Care Research). This will be a separate application process
 
 # Academic time?
+So what do you actually *do* during your academic time? This will depend on your project(s), and your supervisor. It will also depend on the way your time is organised - day release, block release or some combination.
+
+During the SFP, you'll likely be stratified into research, education or leadership tracks, which will influence your use of academic time. Education tracks will likely be doing some sort of teaching activity, revision course, simulation or similar. Research tracks will likely be doing more traditional research, for example gathering and analysing data, writing up findings and creating publications/presentations. Leadership is the track I'm least personally familiar with, but I understand it to be more along the lines of management, for example quality improvements or safety.
+
+## Advantages
+
+"But Anna," I hear you cry, "aren't these all activities I can do *without* academic time dedicated to them?"
+
+Essentially, yes. I did these sorts of things at medical school without protected time, and of course things like quality improvement projects are mandatory throughout training (ask your nearest doctor, and prepare for a rant). However, when you do these things, *you're not being paid to do them*. I'll let you think what you will about that. You're also having to do them in the evenings and on weekends, or other times you might want to spend resting. In summary, academic time isn't necessary to do these activities - I knew someone who got a part-time Masters in Medical Education during FY1-FY2 - but it does make it easier.
+
+It also gives you time away from the wards, which anyone will tell you is a good thing. It means when you go back, you're refreshed. It means you have a wider awareness of issues around the healthcare system rather than getting tunnel vision regarding your day-to-day. It protects you from getting burned out by the repetitive nature of some major clinical challenges - instead of having to face the misery of the A+E waiting room 10 times a shift only to see the same people waiting in corridors when you get back to work the next day, you get some time to focus on something you actually enjoy doing.
+
+For me, it reinforces the distinction between *job* and *career*. Yes, the day-to-day job has its ups and downs. But it helps to see certain hoops as just that - hoops to jump through to get to a better place, rather than seeing them as essentials to your work and sense of self.
+
+## Disadvantages
+
+"Sounds amazing, I'm sold - but isn't this too good to be true?" Another excellent point. There are certainly challenges associated with this. The main one, and if you don't acknowledge your awareness of this in your white space questions or interviews (see [Applying](#applying)) below, you're not going to convince anyone you're prepared, is the impact it has on your clinical training.
+
+Any clinical training has certain outcomes you need to meet. In FY1 and FY2 these are broad and generalisable - assessing sick patients, starting management, communicating well. I'm in O+G training now, and this year I need to demonstrate ability to take a cervical smear, and by the end of training I'll be expected to be able to do more advanced things like complicated C sections. The requirements get gradually more demanding. Someone like me who is given 75% clinical and 25% academic time is still working full time (48h/week for doctors).
+
+This means my training will still take the same amount of time as my 100% clinical colleagues. In other words, I have *75% of the time they do* to reach *the same exact outcomes*.
+
+In contrast to someone working less than full time (LTFT) at 75% pro-rata, who will have their training extended to compensate for the additional time away from their clinical work. Yes, we'll both have the same amount of clinical time, but they will have longer to meet the requirements than me.
+
+That's the main disadvantage, and there are others. Because you're not working the same amount of time clinically, some old-fashioned miserable people will dislike you and think you don't take the job seriously. LTFT trainees get the same. Not all departments are like this - my current teams are all lovely - but in previous rotations and speaking to other doctors, it's definitely not an uncommon attitude in some places. Ask at your interview, or talk to existing trainees.
 
 # Applying
+
+So now we get to the application.
 
 # More information
 
