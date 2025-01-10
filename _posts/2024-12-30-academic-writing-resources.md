@@ -7,7 +7,7 @@ tags: academic-writing
 categories: advice, academic-writing
 hidden: false
 ---
-# Academic writing resourcesß
+# Academic writing resources
 
 I've collected a few resources over the years to help with any academic writing tasks, from assignments for class through to research papers. I would recommend branching out further than your own specific area of interest and seeing how other fields organise their work, as there may be someone doing something completely different to you that you could learn a lot from!
 
