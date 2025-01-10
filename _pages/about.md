@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Under construction - have a browse!
+subtitle: Academic Clinical Fellow in Obstetrics and Gynaecology at [UHL](https://www.leicestershospitals.nhs.uk/aboutus/departments-services/gynaecology/) and [University of Leicester]()
 
 profile:
   align: right
@@ -17,3 +17,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I'm an Academic Clinical Fellow in my first year (ST1) of Obstetrics and Gynaecology training. I'm based between University Hospitals of Leicester NHS Trust, and the University of Leicester.
+
+I completed my Foundation Year 1 and 2 at [UHMB](https://www.uhmb.nhs.uk/) as part of the Specialised Foundation Programme (Research track). My research block focussed on understanding the microbiome of diabetic leg ulcers and how antibiotics are used in the Trust.
