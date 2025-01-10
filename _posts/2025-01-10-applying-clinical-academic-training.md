@@ -3,7 +3,7 @@ layout: post
 title:  applying for academic clinical training
 date:   2025-01-10
 description: where do I even start?
-tags: clinical-academia, career
+tags: clinical-academic-training, career
 categories: advice
 hidden: false
 ---
