@@ -3,7 +3,7 @@ layout: post
 title:  clinical academic training
 date:   2024-12-30 16:40:16
 description: what is it? and what's the point?
-tags: clinical-academia, career
+tags: clinical-academic-training, career
 categories: advice
 hidden: false
 ---
