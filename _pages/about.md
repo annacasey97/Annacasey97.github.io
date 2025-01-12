@@ -31,3 +31,11 @@ My BMBS is from [Brighton and Sussex Medical School](https://www.bsms.ac.uk/inde
 In 2020 I graduated from the [University of Manchester](https://www.manchester.ac.uk/) with my MSc International Disaster Management from the [Humanitarian and Conflict Response Institute](https://www.hcri.manchester.ac.uk/). My thesis focussed on the evidence base underpinning international medical reponses to sudden-onset disasters, encouraging us to think outside traditional evidence hierarchies. This was disrupted by the pandemic which has itself triggered conversations around evidence hierarchies! During this year I undertook a placement at the [Association of Greater Manchester Authorities Civil Contingencies and Resilience Unit](https://www.manchester.gov.uk/info/200039/emergencies/6303/preparing_for_emergencies/3) which was a great way of expanding my awareness of emergency response beyond medicine.
 
 Please reach out if any of this sounds interesting, I'm always excited to share my experiences and help others get involved with their areas of interest!
+
+---
+
+Websites I like
+[XKCD](https://xkcd.com/)
+[Low<--Tech Magazine](https://solar.lowtechmagazine.com/)
+
+Image dithering courtesy of [Dither It!](https://ditherit.com/)
