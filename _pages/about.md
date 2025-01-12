@@ -34,7 +34,7 @@ Please reach out if any of this sounds interesting, I'm always excited to share 
 
 ---
 
-Websites I like
+Websites I like  
 [XKCD](https://xkcd.com/)  
 [Low<--Tech Magazine](https://solar.lowtechmagazine.com/)
 
