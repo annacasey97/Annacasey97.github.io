@@ -9,7 +9,7 @@ subtitle: Academic Clinical Fellow in Obstetrics and Gynaecology @ <a href='http
 
 profile:
   align: right
-  image: dither_it_profiletoronto.png
+  image: dither_it_bayer_profiletoronto.png
   image_circular: true # crops the image to make it circular
   more_info: >
     I need to find a picture
