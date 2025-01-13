@@ -3,8 +3,8 @@ layout: post
 title:  how to maximise your CV for medical specialty applications
 date:   2025-01-13 12:34:00
 description: this file is actually called CV-maxxing.md :)
-tags: draft
-categories: career-advice, portfolio
+tags: career-advice, portfolio
+categories: advice
 hidden: false
 ---
 
