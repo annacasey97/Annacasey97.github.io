@@ -109,14 +109,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:", "_blank");
+          window.open("mailto:%61%6E%6E%61%63%61%73%65%79@%64%6F%63%74%6F%72%73.%6F%72%67.%75%6B", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/annamcasey", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/https://orcid.org/0000-0003-4692-4869", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Anna-Casey-8/", "_blank");
+          window.open("https://www.researchgate.net/profile/Anna-Casey-8/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -124,6 +138,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=ddsMMcIAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
