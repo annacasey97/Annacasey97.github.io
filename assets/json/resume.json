@@ -1,18 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "name": "Anna Casey",
+    "email": "annacasey@doctors.org.uk",
+    "url": "https://annacasey97.github.io/",
+    "summary": "NIHR Academic Clinical Fellow in Obstetrics and Gynaecology at UHL and University of Leicester",
     },
     "profiles": [
       {
@@ -24,39 +15,42 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "NIHR Academic Clinical Fellow",
+      "position": "ST1 Obstetrics and Gynaecology",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-08-07",
+      "endDate": "2027",
+      "summary": "Research focussing on gynaecological cancer, in particular uterine cancer. Also developing my clinical skills alongside my academic work",
     }
-  ],
-  "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "name": "Specialised Foundation Program",
+      "position": "FY1 and FY2 doctor",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2022-07-18",
+      "endDate": "2024-08-06",
+      "summary": "Foundation training",
+      "rotations": ["Respiratory with general medicine on-call", "General adult psychiatry", "Colorectal surgery with general surgery on-call", "Research block: microbiology and diabetic foot microbiome", "Emergency Medicine", "General Practice"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Brighton and Sussex Medical School",
+      "location": "Brighton, UK",
+      "url": "https://www.bsms.ac.uk/index.aspx",
+      "area": "Bachelor of Medicine, Bachelor of Surgery",
+      "studyType": "BMBS",
+      "startDate": "2016-09-01",
+      "endDate": "2022-07-01",
     }
+    {
+      "institution": "University of Manchester",
+      "location": "Manchester, UK",
+      "url": "https://www.manchester.ac.uk/",
+      "area": "International Disaster Management",
+      "studyType": "MSc",
+      "startDate": "2019-09-01",
+      "endDate": "2020-09-01",
+    }  
   ],
   "awards": [
     {
@@ -173,18 +167,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
