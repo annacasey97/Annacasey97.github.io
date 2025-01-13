@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-applying-for-academic-clinical-training",
+        },{id: "post-how-to-maximise-your-cv-for-medical-specialty-applications",
+      
+        title: "how to maximise your CV for medical specialty applications",
+      
+      description: "this file is actually called CV-maxxing.md :)",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/CV-maxxing/";
+        
+      },
+    },{id: "post-applying-for-academic-clinical-training",
       
         title: "applying for academic clinical training",
       
