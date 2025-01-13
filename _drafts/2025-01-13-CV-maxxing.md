@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  draft template
+title:  how to maximise your CV for medical specialty applications
 date:   2025-01-13 12:34:00
-description: how to maximise your CV for medical specialty applications
+description: this file is actually called CV-maxxing.md :)
 tags: draft
-categories: career-advice, templates
+categories: career-advice, portfolio
 hidden: false
 ---
 
@@ -32,6 +32,40 @@ For those of you applying to specialty training, use your CV template from Green
 
 # Part 2: Focussing your efforts
 
-I think it's worth keeping this article general and doing a series of posts about specific aspects of the portfolio scoring.
+I think it's worth keeping this article general and doing a series of posts about specific aspects of the portfolio scoring. Having said this there are some general pointers to keep in mind. These mainly focus around saving time.
 
+## You do not have time to maximise scoring across all domains, unless you've started in childhood/infancy
 
+If you are reading this as a final year student or FY doctor, you do not have time to get from 0 to top points across all domains. With this in mind, make sure anything you do on top of your day job is getting you more points.
+
+Example: QI project
+
+Let's say you're an FY1 who did a full-cycle quality improvement project in medical school (nerd). Now, you want to apply for [Internal Medicine Training (IMT)](https://www.imtrecruitment.org.uk/recruitment-process/applying/application-scoring). That QI work already gets you 3 out of 4 points for the QI portion of their portfolio assessment. The only way you can get more points (that is, 4/4), is to do TWO full cycles of a QI project. 
+
+Now you have a choice: you could continue your previous one to get another cycle out of it; if that is not feasible (for example you're not at the same Trust for FY1) you could try and start a whole other QI project and get 2 cycles out of it; or you could decide to do neither as you have more points to gain in other aspects of the portfolio scoring system, for example you have no teaching experience at all.
+
+Depending on your personal situation and priorities, any one of those options might make sense. It's just about finding how you can make the most of your limited time.
+
+## If you've already maximised a domain, ignore it
+
+Let's say you want to do [Histopathology](https://medical.hee.nhs.uk/medical-training-recruitment/medical-specialty-training/pathology/histopathology/overview-of-histopathology/histopathology-training-self-assessment-scoring-guidance-for-applicants), and you've already presented a histopathology research poster you did at a regional meeting. You're now being offered another project to do which will likely be presented at the same regional meeting next year. Whilst this sounds great - two presentations! - you're actually not getting any additional points for this. 
+
+The only way this would be worth it from a portfolio perspective is for your work to be presented nationally or internationally as an oral presentation - as this would score in the "presentations/posters" section as well as the "Histopathology related activities" section. If you're not going to do that, you should say no.
+
+Note, though, that each thing can only be scored in one section. For example, if you gave an oral presentation at a national conference, you couldn't use that in both "presentations/posters" and "Histopathology related activities". However, if you both presented a poster at a regional conference and then turned it into an international oral presentation, that would count as it would be two different activities.
+
+## Quality > quantity
+
+If you've already got an international oral presentation and maximised your points in that domain, you don't get extra points for doing another one. I have met people who have done 10+ QI projects, but because none of them repeated the cycle, they don't get maximum points.
+
+Don't waste time repeating things at a level which won't get you extra points.
+
+## Pushing at open doors
+
+If you're passionate about neurosurgery and are applying for [CST](https://medical.hee.nhs.uk/medical-training-recruitment/medical-specialty-training/surgery/core-surgery/core-surgical-training-self-assessment-scoring-guidance-for-candidates) as above. Sadly, you don't have a neurosurgery rotation that'll get you loads of operative experience. Fortunately, you don't need it. To maximise your "operative experience" score you need to be involved - i.e. scrubbed - for 40 operations. It does not specify which ones. Therefore, regardless of your surgical rotation's specialty, you can still get this by aiming to get as much experience as possible.
+
+# Part 3: putting it all together
+
+For anything you're going to submit for specialty recruitment applications, they may ask for proof. Create a folder on your computer, and save everything you might need to provide to prove your work. Degree certificates, QIP certificates, teaching feedback etc.
+
+Your folder structure should hopefully mirror your CV in this way. When you add something like a certificate, remember to update your CV. That way you're guaranteed to be up to date with everything.
