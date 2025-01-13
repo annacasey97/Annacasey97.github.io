@@ -69,3 +69,5 @@ If you're passionate about neurosurgery and are applying for [CST](https://medic
 For anything you're going to submit for specialty recruitment applications, they may ask for proof. Create a folder on your computer, and save everything you might need to provide to prove your work. Degree certificates, QIP certificates, teaching feedback etc.
 
 Your folder structure should hopefully mirror your CV in this way. When you add something like a certificate, remember to update your CV. That way you're guaranteed to be up to date with everything.
+
+I hope this has been useful! I've been inspired to take this a little further and have individual posts about each of the common CV/portfolio domains and how to get the most out of your efforts, so please let me know if there's anything in particular you'd like me to focus on.
