@@ -8,6 +8,13 @@ categories: advice
 hidden: false
 ---
 
+## UPDATE Jan 2025: 
+
+no sooner had I posted this than the CST portfolio assessment has been updated again! The links in this article will take you to the latest guidance, and [here](https://web.archive.org/web/20221102132123/https://medical.hee.nhs.uk/medical-training-recruitment/medical-specialty-training/surgery/core-surgery/core-surgical-training-self-assessment-scoring-guidance-for-candidates) is the previous one for historical reference.
+
+-----
+
+
 One of the major stresses for any medical student or doctor in the UK looking at entering specialty training is your portfolio. And I don't mean Horus! What is a portfolio? What needs to go in it? What looks good? And most importantly: how can I maximise the usefulness of my time spent working hard on all these extra things?
 
 Disclaimer: I am NOT suggesting my CV is particularly incredible. I have had a lot of guidance from various sources and learnt along the way, so the point of this is more to share some of my experiences and approaches, rather than being some sort of guarantee of success.
@@ -32,9 +39,11 @@ For those of you applying to specialty training, use your CV template from Green
 
 # Part 2: Focussing your efforts
 
-I think it's worth keeping this article general and doing a series of posts about specific aspects of the portfolio scoring. Having said this there are some general pointers to keep in mind. These mainly focus around saving time.
+I think it's worth keeping this article general and doing a series of posts about specific aspects of the portfolio scoring. Having said this there are some general pointers to keep in mind.
 
 ## You do not have time to maximise scoring across all domains, unless you've started in childhood/infancy
+
+The absolute key point here is that *your time is limited*.
 
 If you are reading this as a final year student or FY doctor, you do not have time to get from 0 to top points across all domains. With this in mind, make sure anything you do on top of your day job is getting you more points.
 
@@ -54,20 +63,31 @@ The only way this would be worth it from a portfolio perspective is for your wor
 
 Note, though, that each thing can only be scored in one section. For example, if you gave an oral presentation at a national conference, you couldn't use that in both "presentations/posters" and "Histopathology related activities". However, if you both presented a poster at a regional conference and then turned it into an international oral presentation, that would count as it would be two different activities.
 
+If you already have the most points you can get - either because you have the most points available of it's not feasible to get more before the application, ignore that domain.
+
 ## Quality > quantity
 
-If you've already got an international oral presentation and maximised your points in that domain, you don't get extra points for doing another one. I have met people who have done 10+ QI projects, but because none of them repeated the cycle, they don't get maximum points.
+If you've already got an international oral presentation and maximised your points in that domain, you don't get extra points for doing another one. I have met people who have done 10+ QI projects, but because none of them repeated the cycle, they don't get maximum points. You don't get more points for having several low-level portfolio items.
 
 Don't waste time repeating things at a level which won't get you extra points.
 
 ## Pushing at open doors
 
-If you're passionate about neurosurgery and are applying for [CST](https://medical.hee.nhs.uk/medical-training-recruitment/medical-specialty-training/surgery/core-surgery/core-surgical-training-self-assessment-scoring-guidance-for-candidates) as above. Sadly, you don't have a neurosurgery rotation that'll get you loads of operative experience. Fortunately, you don't need it. To maximise your "operative experience" score you need to be involved - i.e. scrubbed - for 40 operations. It does not specify which ones. Therefore, regardless of your surgical rotation's specialty, you can still get this by aiming to get as much experience as possible.
+Let's say you're passionate about neurosurgery and are applying for [CST](https://medical.hee.nhs.uk/medical-training-recruitment/medical-specialty-training/surgery/core-surgery/core-surgical-training-self-assessment-scoring-guidance-for-candidates) as above. Sadly, you don't have a neurosurgery rotation that'll get you loads of operative experience. Fortunately, you don't need it. 
+
+To maximise your "operative experience" score you need to be involved - i.e. scrubbed - for 40 operations. It does not specify which ones. Therefore, regardless of your surgical rotation's specialty, you can still get this by aiming to get as much experience as possible.
 
 # Part 3: putting it all together
 
 For anything you're going to submit for specialty recruitment applications, they may ask for proof. Create a folder on your computer, and save everything you might need to provide to prove your work. Degree certificates, QIP certificates, teaching feedback etc.
 
 Your folder structure should hopefully mirror your CV in this way. When you add something like a certificate, remember to update your CV. That way you're guaranteed to be up to date with everything.
+
+# Summary
+
+1. You don't have time to max everything unless you started very early
+2. If you've got as many points as you can in a certain domain, leave that domain alone
+3. You only get points for doing something once - don't spend time repeating things unnecessarily
+4. Take advantages of opportunities available to you
 
 I hope this has been useful! I've been inspired to take this a little further and have individual posts about each of the common CV/portfolio domains and how to get the most out of your efforts, so please let me know if there's anything in particular you'd like me to focus on.
