@@ -12,7 +12,7 @@ profile:
   image: dither_it_bayer_profiletoronto.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    site is still under construction :) have a look around
+    
     
 
 news: true # includes a list of news items
