@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-how-to-maximise-your-cv-for-medical-specialty-applications",
+        },{id: "post-commitment-to-specialty-issues",
+      
+        title: "commitment (to specialty) issues",
+      
+      description: "proving your devotion",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/commitment-to-specialty/";
+        
+      },
+    },{id: "post-how-to-maximise-your-cv-for-medical-specialty-applications",
       
         title: "how to maximise your CV for medical specialty applications",
       
