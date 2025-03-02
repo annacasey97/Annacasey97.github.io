@@ -22,9 +22,11 @@ I think the main problem here is the cases, to be honest. Firstly, everyone shou
 
 The [Pan-Surgical Electronic Logbook for the United Kingdom and Ireland](https://www.elogbook.org/) is what you'll need to demonstrate involvement in ≥40 cases. NB _"Involvement" means "scrubbed in" - not observing._
 
-Step 1: make an account (straightforward)
-Step 2: start recording cases (relatively straightforward, fun fact! gynaecological procedures and C-sections count as general surgery)
-Step 3: get those cases signed off (complicated)
+Steps as follows:
+
+1. make an account (straightforward)  
+2. start recording cases (relatively straightforward, fun fact! gynaecological procedures and C-sections count as general surgery)
+3. get those cases signed off (complicated)
 
 The most complicated bit will be the validation/sign off. Go to "browse operations" --> "request trainer validation". You can also, for trainers who are not as technologically adept/up to date/registered on the elogbook etc., print off the list and get a physical signature.
 
