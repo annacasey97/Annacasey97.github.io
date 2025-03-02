@@ -3,8 +3,8 @@ layout: post
 title:  commitment (to specialty) issues
 date:   2025-01-18 12:27:00
 description: proving your devotion
-tags: portfolio, career
-categories: portfolio, career
+tags: portfolio, career-advice
+categories: advice
 hidden: false
 ---
 
