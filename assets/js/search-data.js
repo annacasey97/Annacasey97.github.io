@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-commitment-to-specialty-issues",
+        },{id: "post-research-at-medical-school",
+      
+        title: "research at medical school",
+      
+      description: "how do people even do this?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/research-at-medical-school/";
+        
+      },
+    },{id: "post-commitment-to-specialty-issues",
       
         title: "commitment (to specialty) issues",
       
