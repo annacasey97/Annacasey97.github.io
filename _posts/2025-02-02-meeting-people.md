@@ -18,6 +18,8 @@ The absolute main points are probably these: connections and time.
 
 The more people you know, the more likely they are to suggest opportunities to you. And the longer you give yourself to do things, the more time you have to accumulate success. Start early!
 
+---
+
 # Student groups
 
 There will be local ones at your university, as well as some national ones. Google them!
@@ -60,6 +62,8 @@ If you see a cool poster, reach out to the person who made it! If you attend an 
 # Other approaches
 
 OK, so a lot of the above will be online, especially things like conferences. It's worth thinking outside the box though, and using social media, LinkedIn and other forums where you can find people doing interesting things. Think things like authors on publications, or even the news! I used to work with someone who did some really cool research with a team he made contact with after seeing them on the news!
+
+---
 
 # Wrapping up
 
