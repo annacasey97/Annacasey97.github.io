@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-research-at-medical-school",
+        },{id: "post-research-at-medical-school-meeting-people",
       
-        title: "research at medical school",
+        title: "research at medical school - meeting people",
       
       description: "how do people even do this?",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/research-at-medical-school/";
+          window.location.href = "/blog/2025/meeting-people/";
         
       },
     },{id: "post-commitment-to-specialty-issues",
