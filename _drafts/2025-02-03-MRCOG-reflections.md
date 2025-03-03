@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  draft template
+title:  MRCOG reflections
 date:   2025-02-03 13:36:00
 description: revising during work
 tags: job, MRCOG
