@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-research-at-medical-school-meeting-people",
+        },{id: "post-mrcog-reflections",
+      
+        title: "MRCOG reflections",
+      
+      description: "revising during work",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/MRCOG-reflections/";
+        
+      },
+    },{id: "post-research-at-medical-school-meeting-people",
       
         title: "research at medical school - meeting people",
       
