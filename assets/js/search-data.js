@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-mrcog-reflections",
+        },{id: "post-starting-in-research",
+      
+        title: "Starting in research",
+      
+      description: "where to start?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/starting-in-research/";
+        
+      },
+    },{id: "post-mrcog-reflections",
       
         title: "MRCOG reflections",
       
