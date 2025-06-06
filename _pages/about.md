@@ -9,7 +9,7 @@ subtitle: Academic Clinical Fellow in Obstetrics and Gynaecology @ <a href='http
 
 profile:
   align: right
-  image: updatedither_it_bayer_profiletoronto.png
+  image: bwrdither_it_bayer_profiletoronto.png
   image_circular: false # crops the image to make it circular
   more_info: >
     
