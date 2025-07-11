@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-starting-in-research",
+        },{id: "post-bgcs-annual-scientific-meeting-2025",
+      
+        title: "BGCS Annual Scientific Meeting 2025",
+      
+      description: "a poster is presented, and talks are attended",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/BGCS2025/";
+        
+      },
+    },{id: "post-starting-in-research",
       
         title: "Starting in research",
       
@@ -141,17 +152,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/academic-writing-resources/";
-        
-      },
-    },{id: "post-bgcs-annual-scientific-meeting-2025",
-      
-        title: "BGCS Annual Scientific Meeting 2025",
-      
-      description: "a poster is presented, and talks are attended",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/BGCS2025/";
         
       },
     },{id: "projects-project-1",
