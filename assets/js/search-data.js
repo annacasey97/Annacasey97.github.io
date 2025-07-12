@@ -147,7 +147,7 @@ ninja.data = [{
           title: 'Uterine Sarcoma',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/uterinesarcoma/";
             },},{
         id: 'social-email',
         title: 'email',
