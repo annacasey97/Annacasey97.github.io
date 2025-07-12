@@ -143,9 +143,9 @@ ninja.data = [{
           window.location.href = "/blog/2024/academic-writing-resources/";
         
       },
-    },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+    },{id: "projects-uterine-sarcoma",
+          title: 'Uterine Sarcoma',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
