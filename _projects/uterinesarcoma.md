@@ -16,7 +16,7 @@ During my ACF years I am working with Dr Esther Moss on research into uterine sa
 
 My research is focussing on the use of ctDNA in the diagnosis and monitoring of uterine sarcoma. See below for information on [uterine sarcoma](#What-is-uterine-sarcoma?) and [diagnostic challenges](#diagnostic-challenges).
 
-I have presented a poster at BGCS 2025 - see my short post about it [here](https://annacasey97.github.io/blog/2024/academic-writing-resources/). This summarised a systematic review into the use of ctDNA for diagnosis and monitoring of uterine sarcoma.
+I have presented a poster at BGCS 2025 - see my short post about it [here](https://annacasey97.github.io/blog/2025/BGCS2025/). This summarised a systematic review into the use of ctDNA for diagnosis and monitoring of uterine sarcoma.
 
 ## What is uterine sarcoma?
 
