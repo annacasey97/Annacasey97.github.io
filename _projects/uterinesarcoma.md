@@ -24,7 +24,7 @@ I have presented a poster at BGCS 2025 - see my short post about it [here](https
 
 Whilst endometrial cancer represents [96% of all uterine cancers](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/uterine-cancer/incidence#heading-Three), **sarcoma only represents about [2-5% of uterine cancers](https://www.cancer.org/cancer/types/uterine-sarcoma/about/key-statistics.html)**.
 
-<div style="text-align: center;"><img src="/assets/img/ditherCRUK_cancersites.png"/></div>
+<div style="text-align: center;" "width: 500px;"><img src="/assets/img/ditherCRUK_cancersites.png"/></div>
 
 
 ## Diagnostic challenges
