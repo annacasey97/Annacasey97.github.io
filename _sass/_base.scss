@@ -20,9 +20,13 @@ strong {
 }
 
 
-p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
+p, h1, h2, h3, h4, h5, h6, em, div, li, span, {
   color: var(--global-text-color);
   font-family: 'Times', serif;
+}
+
+strong {
+font-weight: bold
 }
 
 hr {
