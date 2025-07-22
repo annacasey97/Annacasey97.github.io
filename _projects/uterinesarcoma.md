@@ -5,7 +5,7 @@ title: Uterine Sarcoma
 img: assets/img/canvas.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 # Uterine sarcoma research
@@ -60,6 +60,7 @@ The problem is that **none of these approaches are very good at identifying sarc
 Fibroids are **very common** - if you have a uterus, chances are about [2 in 3](https://www.nhs.uk/conditions/fibroids/) you'll get at least one during your life. Most of the time they **don't have any symptoms**, but when they do, they are similar to the symptoms above - bleeding, abdominal pain, bloating, lumps.
 
 This makes it really difficult to say if a lump which has been found is cancer or not - it **probably isn't**, but **what if it's cancer**?
+
 
 # Research outputs
 
