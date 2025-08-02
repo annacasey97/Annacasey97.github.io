@@ -7,6 +7,9 @@ tags: job, MRCOG
 categories: obgyn
 hidden: false
 ---
+UPDATE: I passed! I'm relieved this first step of the journey has been successfully overcome.
+
+---
 
 I've got my MRCOG part 1 exam on the 1st of July this year. With that in mind, I'd like to document my approach to this so once I have my result I can learn from it for whichever exam I need to sit next.
 
