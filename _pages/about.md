@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an Academic Clinical Fellow in my first year (ST1) of Obstetrics and Gynaecology training, based between UHL and the University of Leicester. My research is mainly focussed on gynaecological cancer, in particular uterine cancers. My other professional interests include global health, healthcare in remote and resource-limited settings, as well as education. Outside of work I enjoy reading, travelling and exploring nature.
+I'm an Academic Clinical Fellow in my second year (ST2) of Obstetrics and Gynaecology training, based between UHL and the University of Leicester. My research is mainly focussed on gynaecological cancer, in particular uterine cancers. My other professional interests include global health, healthcare in remote and resource-limited settings, as well as education. Outside of work I enjoy reading, travelling and exploring nature.
 
 I find intersections between different specialties, scientific disciplines and ways of thinking really motivating, and have gathered (I think) a really diverse set of experiences to draw upon in my work.
 
@@ -37,5 +37,7 @@ Please reach out if any of this sounds interesting, I'm always excited to share 
 Websites I like  
 [XKCD](https://xkcd.com/)  
 [Low<--Tech Magazine](https://solar.lowtechmagazine.com/)
+[Hendrik Erz](https://www.hendrik-erz.de/)
+[Raul Pacheco-Vega](https://www.raulpacheco.org/)
 
 Image dithering courtesy of [Dither It!](https://ditherit.com/)
