@@ -37,6 +37,7 @@ Please reach out if any of this sounds interesting, I'm always excited to share 
 Websites I like  
 [XKCD](https://xkcd.com/)  
 [Low<--Tech Magazine](https://solar.lowtechmagazine.com/)
+[Nicole Paul](https://nicolepaul.io/)
 [Hendrik Erz](https://www.hendrik-erz.de/)
 [Raul Pacheco-Vega](https://www.raulpacheco.org/)
 
