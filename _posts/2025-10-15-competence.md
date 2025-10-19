@@ -10,13 +10,17 @@ hidden: true
 
 I’ve been thinking recently about competence. What does it mean? From the very start of training, the binary “competent” / “working towards competence” has been a stressful yet mandatory question for the OSAT assessments of the RCOG portfolio. Am I competent if I can do the CS but not solve any problems (bleeding, tone etc)? Where does this end, though? An ST2 cannot reasonably be expected to perform an emergency hysterectomy, after all, though they will need to be "competent" to perform a CS.
 
+# What triggered this?
+
+Recently, one year to the date from my first skin to skin Caesarean section, I did two elective CS, assisted by a medical student for closure from the uterus up. Is this competence? 
+
 # Do-Recognise-Escalate
 
-I remember asking a consultant about this last year. Their suggestion was to look at levels of safety - can I **do** the thing, **recognise** potential common issues and **escalate** once it is clear I can’t manage them myself? I would argue there is more to it than this. Recently, one year to the date from my first skin to skin Caesarean section, I did two elective CS, assisted by a medical student for closure from the uterus up. Is this competence? 
+I remember asking a consultant about this last year. Their suggestion was to look at levels of safety - can I **do** the thing, **recognise** potential common issues and **escalate** once it is clear I can’t manage them myself? I would argue there is more to it than this. 
 
 # Operator/assistant competence balance
 
-On discussion with the consultant supervising this (and signing my OSATs!), she suggested a different mental model: **operator/assistant competence balance**. Basically, when I first started, in terms of theory and technical skill I was uncertain, but my assistants always knew what they were doing; they were competent, I was working towards it. Now, I have apparently reached a stage (per this consultant) where both I and my assistant are reliably competent. The next step is becoming competent when my assistant is not; an FY, a GPST, a student. Eventually, an ST1-2.
+On discussion with the consultant supervising the recent CS with a student (and signing my OSATs!), she suggested a different mental model: **operator/assistant competence balance**. Basically, when I first started, in terms of theory and technical skill I was uncertain, but my assistants always knew what they were doing; they were competent, I was working towards it. Now, I have apparently reached a stage (per this consultant) where both I and my assistant are reliably competent. The next step is becoming competent when my assistant is not; an FY, a GPST, a student. Eventually, an ST1-2.
 
 # Mindset and changing attitudes to procedures
 
