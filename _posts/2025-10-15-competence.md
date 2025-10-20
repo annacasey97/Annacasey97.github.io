@@ -5,7 +5,7 @@ date:   2025-10-15 12:27:00
 description: Reflections
 tags: clinical
 categories: clinical
-hidden: true
+hidden: false
 ---
 
 I’ve been thinking recently about competence. What does it mean? From the very start of training, the binary “competent” / “working towards competence” has been a stressful yet mandatory question for the OSAT assessments of the RCOG portfolio. Am I competent if I can do the CS but not solve any problems (bleeding, tone etc)? Where does this end, though? An ST2 cannot reasonably be expected to perform an emergency hysterectomy, after all, though they will need to be "competent" to perform a CS.
