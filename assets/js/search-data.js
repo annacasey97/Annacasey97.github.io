@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-bgcs-annual-scientific-meeting-2025",
+        },{id: "post-on-competence",
+      
+        title: "On Competence",
+      
+      description: "Reflections",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/competence/";
+        
+      },
+    },{id: "post-bgcs-annual-scientific-meeting-2025",
       
         title: "BGCS Annual Scientific Meeting 2025",
       
