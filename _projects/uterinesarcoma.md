@@ -61,6 +61,10 @@ Fibroids are **very common** - if you have a uterus, chances are about [2 in 3](
 
 This makes it really difficult to say if a lump which has been found is cancer or not - it **probably isn't**, but **what if it's cancer**?
 
+## Next steps in research
+
+So how does the current work I'm involved in move us forward? 
+
 
 # Research outputs
 
