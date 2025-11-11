@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-on-competence",
+        },{id: "post-week-in-the-life-st2-nov-2025",
+      
+        title: "week in the life - ST2, Nov 2025",
+      
+      description: "Obs, gynae and life",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/week-in-the-life-ST2/";
+        
+      },
+    },{id: "post-on-competence",
       
         title: "On Competence",
       
